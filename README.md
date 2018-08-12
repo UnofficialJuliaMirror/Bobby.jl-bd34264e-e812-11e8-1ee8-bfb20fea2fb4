@@ -1,3 +1,5 @@
+:warning: this approach has been discontinued
+
 # Bobby.jl
 A mediocre chess engine written in Julia and LaTeX
 
